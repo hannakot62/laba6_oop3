@@ -1,0 +1,11 @@
+﻿  laba6 oop.cpp
+C:\Users\ANNA\OneDrive\Desktop\универский срач\оооооооооп\laba6 oop\laba6 oop\laba6 oop.cpp(310,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\ANNA\OneDrive\Desktop\универский срач\оооооооооп\laba6 oop\laba6 oop\laba6 oop.cpp(340,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\ANNA\OneDrive\Desktop\универский срач\оооооооооп\laba6 oop\laba6 oop\laba6 oop.cpp(340,15): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\ANNA\OneDrive\Desktop\универский срач\оооооооооп\laba6 oop\laba6 oop\laba6 oop.cpp(400,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\ANNA\OneDrive\Desktop\универский срач\оооооооооп\laba6 oop\laba6 oop\laba6 oop.cpp(401,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\ANNA\OneDrive\Desktop\универский срач\оооооооооп\laba6 oop\laba6 oop\laba6 oop.cpp(401,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\ANNA\OneDrive\Desktop\универский срач\оооооооооп\laba6 oop\laba6 oop\laba6 oop.cpp(453,10): warning C4101: choise: неиспользованная локальная переменная
+C:\Users\ANNA\OneDrive\Desktop\универский срач\оооооооооп\laba6 oop\laba6 oop\laba6 oop.cpp(655,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ANNA\OneDrive\Desktop\универский срач\оооооооооп\laba6 oop\laba6 oop\laba6 oop.cpp(508): warning C4715: ChooseColorW: значение возвращается не при всех путях выполнения
+  laba6 oop.vcxproj -> C:\Users\ANNA\OneDrive\Desktop\универский срач\оооооооооп\laba6 oop\Debug\laba6 oop.exe
